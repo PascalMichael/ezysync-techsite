@@ -1,5 +1,4 @@
-import ServiceCard from '@/components/ServiceCard'
-
+import ServiceCard from '../../components/ServiceCard'
 export default function Services() {
   const services = [
     { title: 'CCTV Installation', desc: 'HD cameras, analytics, DVR/NVR integration.' },
