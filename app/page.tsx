@@ -1,5 +1,5 @@
 import Hero from '../components/Hero'
-import ServiceCard from '../components/ServiceCard'viceCard'
+import ServiceCard from '../components/ServiceCard'ServiceCard'
 
 export default function Home() {
   return (
